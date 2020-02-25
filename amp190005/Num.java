@@ -450,6 +450,7 @@ public class Num implements Comparable<Num> {
      * Using binary search to return the square root of a given object.
      * @param a
      * @return square root of a
+     * there you go
      */
     public static Num squareRoot(Num a) {
         if (a.isNegative) {
